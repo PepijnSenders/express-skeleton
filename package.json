@@ -1,5 +1,5 @@
 {
-  "name": "spati-locator",
+  "name": "express-skeleton",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PepijnSenders/spati-locator.git"
+    "url": "git+https://github.com/PepijnSenders/express-skeleton.git"
   },
   "author": "Pepijn Senders <p.senders92@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PepijnSenders/spati-locator/issues"
+    "url": "https://github.com/PepijnSenders/express-skeleton/issues"
   },
-  "homepage": "https://github.com/PepijnSenders/spati-locator#readme",
+  "homepage": "https://github.com/PepijnSenders/express-skeleton#readme",
   "dependencies": {
     "body-parser": "^1.13.3",
     "dot": "^1.0.3",
